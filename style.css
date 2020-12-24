@@ -1,0 +1,35 @@
+body {
+  background-color: black;
+}
+input {
+  width: 75%;
+  background-color: black;
+  border-style: none;
+  border-width: 3px;
+  border-color: white;
+  color: green;
+  font-size: 15px;
+}
+::placeholder {
+  color: green;
+}
+#output {
+  color: #ff7d00;
+  margin-top: 7.5%;
+  font-size: 25px;
+}
+h2 {
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  font-size: 24px;
+}
+#version {
+  margin-top: 30%;
+   color: white;
+   text-align: center;
+}
+#cdprefix {
+  background-color: black;;
+  color: green;
+}
